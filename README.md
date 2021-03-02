@@ -14,14 +14,13 @@ Goal: To develop a mixture model for modelling data from 2 different datasets wi
 6. Document your process and results
 
 ## DataSets
+1. Glass_Classification:<br>
 
-1.Glass_Classification:
-
-  * Prediction of the Glass types using the features
-  * Principle component analysis of glass and feature importance
+     * Prediction of the Glass types using the features
+     * Principle component analysis of glass and feature importance
   
-2.Adult_Census:
-* The prediction task is to determine whether a person makes over $50K a year.
+2. Adult_Census:
+   * The prediction task is to determine whether a person makes over $50K a year.
 
 ## Approach
 
